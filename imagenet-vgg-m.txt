@@ -1,0 +1,5 @@
+Please download pretrained model 'imagenet-vgg-m.mat' from: 
+
+http://www.vlfeat.org/matconvnet/models/imagenet-vgg-m.mat
+
+
