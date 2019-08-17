@@ -1,5 +1,5 @@
-This simplified program is only used for understanding the paper "Sufficient Fisher Vector: Make Fisher Vector More Powerful".
-We'll further publish our full program if this paper is accepted.
+This simplified program is only used for understanding the paper "Foreground Fisher Vector: Encoding Class-Relevant Foreground to Improve Image Classiﬁcation".
+You are not allowed to share with anyone else.
 
 Runtime Environment:
 MATLAB 2017 or later with C++ compiler.
