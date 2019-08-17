@@ -3,8 +3,8 @@ We'll further publish our full program if this paper is accepted.
 
 Runtime Environment:
 MATLAB 2017 or later with C++ compiler.
-CUDA 8.0
-Python 3.5 with Tensorflow.
+CUDA 8.0 or later.
+Python 3.5 or later with Tensorflow.
 
 Step:
 1. Download pretrained model from http://www.vlfeat.org/matconvnet/models/imagenet-vgg-m.mat
